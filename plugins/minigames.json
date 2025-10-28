@@ -1495,6 +1495,19 @@
         }
       }
     },
+    "botsvsbots": {
+      "description": "Enjoy the fight between 2 teams of bots!",
+      "external_url": "https://drive.google.com/file/d/1fwd1Wa2gtqWZ5oZQ1_uJINnXH4XEsCjv/view",
+      "authors": [
+        {
+          "name": "rabbitboom",
+          "email": "",
+          "discord": ""
+        }
+      ],
+      "versions": {
+        "1.0.0": null
+      }
     "bot_shower": {
       "description": "Survive from the bots.",
       "external_url": "",
